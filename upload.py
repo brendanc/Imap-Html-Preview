@@ -1,7 +1,7 @@
 #
 # This script will upload an email into an imap inbox.
 # It will build the email from the email.html and plain.txt files into a single multi-part message.
-# Make sure your imap host, username and password.
+# Make sure you set your imap host, username and password.
 #
 
 from email.mime.multipart import MIMEMultipart
