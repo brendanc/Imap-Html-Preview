@@ -20,3 +20,7 @@ Simply edit the config section with the settings for the specific imap you want 
 It's simple to use so long as you have python installed.  Just open a command or terminal window and call:
 
     python upload.py
+
+###Read more
+
+Visit <a href="http://devspade.com/blog/2013/07/15/quickly-preview-your-html-email-in-gmail/">http://devspade.com/blog/2013/07/15/quickly-preview-your-html-email-in-gmail/</a> for more info.
